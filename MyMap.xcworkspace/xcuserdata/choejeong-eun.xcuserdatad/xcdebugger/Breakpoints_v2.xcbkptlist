@@ -14,9 +14,9 @@
             filePath = "MyMap/Controllers/SearchResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "143"
-            endingLineNumber = "143"
-            landmarkName = "fetchKeywordResult(isDistance:)"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "fetchMoreKeywordResult()"
             landmarkType = "7">
             <Locations>
                <Location
@@ -125,9 +125,9 @@
             filePath = "MyMap/Controllers/SearchResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "328"
-            endingLineNumber = "328"
-            landmarkName = "tableView(_:cellForRowAt:)"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
+            landmarkName = "createSpinnerFooter()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -141,9 +141,9 @@
             filePath = "MyMap/Controllers/SearchResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "329"
-            endingLineNumber = "329"
-            landmarkName = "tableView(_:cellForRowAt:)"
+            startingLineNumber = "364"
+            endingLineNumber = "364"
+            landmarkName = "createSpinnerFooter()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -157,9 +157,9 @@
             filePath = "MyMap/Controllers/SearchResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "330"
-            endingLineNumber = "330"
-            landmarkName = "tableView(_:cellForRowAt:)"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "createSpinnerFooter()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -173,10 +173,10 @@
             filePath = "MyMap/Controllers/SearchResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "332"
-            endingLineNumber = "332"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "367"
+            endingLineNumber = "367"
+            landmarkName = "SearchResultViewController"
+            landmarkType = "21">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -431,8 +431,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "50"
             endingLineNumber = "50"
-            landmarkName = "init(menuInfo:)"
-            landmarkType = "7">
+            landmarkName = "MenuView"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -447,7 +447,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "67"
             endingLineNumber = "67"
-            landmarkName = "setupDatas(menuInfo:)"
+            landmarkName = "configureUI()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -463,7 +463,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "71"
             endingLineNumber = "71"
-            landmarkName = "setupDatas(menuInfo:)"
+            landmarkName = "setupDatas()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -511,7 +511,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "86"
             endingLineNumber = "86"
-            landmarkName = "setConstraints()"
+            landmarkName = "setupDatas()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -573,10 +573,184 @@
             filePath = "MyMap/Views/SearchResultView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
             landmarkName = "storeView"
             landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894C6E04-942B-4514-B00B-D552FDC9D270"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMap/Views/ComponentViews/StoreView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "400"
+            endingLineNumber = "400"
+            landmarkName = "setupPlaceData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "894C6E04-942B-4514-B00B-D552FDC9D270 - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8172">
+               </Location>
+               <Location
+                  uuid = "894C6E04-942B-4514-B00B-D552FDC9D270 - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8344">
+               </Location>
+               <Location
+                  uuid = "894C6E04-942B-4514-B00B-D552FDC9D270 - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F74C326B-8A9E-4FE9-A79C-3A2F95C2716A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMap/Views/ComponentViews/StoreView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "setupPlaceData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F74C326B-8A9E-4FE9-A79C-3A2F95C2716A - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8172">
+               </Location>
+               <Location
+                  uuid = "F74C326B-8A9E-4FE9-A79C-3A2F95C2716A - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8344">
+               </Location>
+               <Location
+                  uuid = "F74C326B-8A9E-4FE9-A79C-3A2F95C2716A - 4f23dd840c9acc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "8420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B0F2A53-B0A4-45CC-87E5-EBD36CE0BB33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMap/Views/ComponentViews/StoreView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "402"
+            endingLineNumber = "402"
+            landmarkName = "setupPlaceData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B0F2A53-B0A4-45CC-87E5-EBD36CE0BB33 - 4f23dd840c9acda7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "8704">
+               </Location>
+               <Location
+                  uuid = "5B0F2A53-B0A4-45CC-87E5-EBD36CE0BB33 - 4f23dd840c9acda7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap.StoreView.setupPlaceData() -&gt; ()"
+                  moduleName = "MyMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choejeong-eun/Desktop/MyMap/MyMap/Views/ComponentViews/StoreView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "8652">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
