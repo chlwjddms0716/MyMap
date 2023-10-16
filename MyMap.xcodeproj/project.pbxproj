@@ -10,9 +10,6 @@
 		843F580A2AD7A310001F7C3C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F58092AD7A310001F7C3C /* TableViewController.swift */; };
 		843F580C2AD7B6A6001F7C3C /* Notification+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F580B2AD7B6A6001F7C3C /* Notification+Extension.swift */; };
 		843F580F2AD7C2F2001F7C3C /* ComentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F580E2AD7C2F2001F7C3C /* ComentView.swift */; };
-		843F58172AD7C6A8001F7C3C /* StarRatingStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F58142AD7C6A8001F7C3C /* StarRatingStackView.swift */; };
-		843F58182AD7C6A8001F7C3C /* StarRatingStackView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 843F58152AD7C6A8001F7C3C /* StarRatingStackView.xib */; };
-		843F58192AD7C6A8001F7C3C /* JStarRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F58162AD7C6A8001F7C3C /* JStarRatingView.swift */; };
 		843F581E2AD7DE35001F7C3C /* ComentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F581D2AD7DE35001F7C3C /* ComentCell.swift */; };
 		843F64DF2AD6C39600DFEF6F /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843F64DE2AD6C39600DFEF6F /* CarouselView.swift */; };
 		8449DDB32ACBD2AD0078BCF8 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8449DDB22ACBD2AD0078BCF8 /* SearchViewController.swift */; };
@@ -50,6 +47,9 @@
 		84CB00182AD773B5008ECF4E /* BlogReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB00172AD773B5008ECF4E /* BlogReviewView.swift */; };
 		84CB001A2AD77AB1008ECF4E /* BlogReviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB00192AD77AB1008ECF4E /* BlogReviewCell.swift */; };
 		84CB001C2AD79134008ECF4E /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CB001B2AD79134008ECF4E /* TableView.swift */; };
+		84DE81C22ADD16AD0024D298 /* StarRatingStackView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84DE81BF2ADD16AD0024D298 /* StarRatingStackView.xib */; };
+		84DE81C32ADD16AD0024D298 /* JStarRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DE81C02ADD16AD0024D298 /* JStarRatingView.swift */; };
+		84DE81C42ADD16AD0024D298 /* StarRatingStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DE81C12ADD16AD0024D298 /* StarRatingStackView.swift */; };
 		84EF430A2ACAB97100023AF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EF43092ACAB97100023AF3 /* AppDelegate.swift */; };
 		84EF430C2ACAB97100023AF3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EF430B2ACAB97100023AF3 /* SceneDelegate.swift */; };
 		84EF43162ACAB97200023AF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EF43142ACAB97200023AF3 /* LaunchScreen.storyboard */; };
@@ -119,9 +119,6 @@
 		843F58092AD7A310001F7C3C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		843F580B2AD7B6A6001F7C3C /* Notification+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Notification+Extension.swift"; sourceTree = "<group>"; };
 		843F580E2AD7C2F2001F7C3C /* ComentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComentView.swift; sourceTree = "<group>"; };
-		843F58142AD7C6A8001F7C3C /* StarRatingStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarRatingStackView.swift; sourceTree = "<group>"; };
-		843F58152AD7C6A8001F7C3C /* StarRatingStackView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StarRatingStackView.xib; sourceTree = "<group>"; };
-		843F58162AD7C6A8001F7C3C /* JStarRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JStarRatingView.swift; sourceTree = "<group>"; };
 		843F581D2AD7DE35001F7C3C /* ComentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComentCell.swift; sourceTree = "<group>"; };
 		843F64DE2AD6C39600DFEF6F /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
 		8449DDB22ACBD2AD0078BCF8 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -159,6 +156,9 @@
 		84CB00172AD773B5008ECF4E /* BlogReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogReviewView.swift; sourceTree = "<group>"; };
 		84CB00192AD77AB1008ECF4E /* BlogReviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogReviewCell.swift; sourceTree = "<group>"; };
 		84CB001B2AD79134008ECF4E /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
+		84DE81BF2ADD16AD0024D298 /* StarRatingStackView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = StarRatingStackView.xib; path = MyMap/Views/Components/StarView/StarRatingStackView.xib; sourceTree = SOURCE_ROOT; };
+		84DE81C02ADD16AD0024D298 /* JStarRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JStarRatingView.swift; path = MyMap/Views/Components/StarView/JStarRatingView.swift; sourceTree = SOURCE_ROOT; };
+		84DE81C12ADD16AD0024D298 /* StarRatingStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StarRatingStackView.swift; path = MyMap/Views/Components/StarView/StarRatingStackView.swift; sourceTree = SOURCE_ROOT; };
 		84EF43062ACAB97100023AF3 /* MyMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84EF43092ACAB97100023AF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84EF430B2ACAB97100023AF3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -259,16 +259,6 @@
 			path = ComponentViews;
 			sourceTree = "<group>";
 		};
-		843F58132AD7C692001F7C3C /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-				843F58162AD7C6A8001F7C3C /* JStarRatingView.swift */,
-				843F58142AD7C6A8001F7C3C /* StarRatingStackView.swift */,
-				843F58152AD7C6A8001F7C3C /* StarRatingStackView.xib */,
-			);
-			path = "New Group";
-			sourceTree = "<group>";
-		};
 		845607662ACD239E0071A469 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
@@ -291,6 +281,17 @@
 				84F7C6D42ACEAD25009E22BE /* UserDefaultManager.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		84DE81BE2ADD169B0024D298 /* StarView */ = {
+			isa = PBXGroup;
+			children = (
+				84DE81C02ADD16AD0024D298 /* JStarRatingView.swift */,
+				84DE81C12ADD16AD0024D298 /* StarRatingStackView.swift */,
+				84DE81BF2ADD16AD0024D298 /* StarRatingStackView.xib */,
+			);
+			name = StarView;
+			path = ../StarView;
 			sourceTree = "<group>";
 		};
 		84EF42FD2ACAB97100023AF3 = {
@@ -469,7 +470,7 @@
 		84F7C6DA2ACEC8B4009E22BE /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				843F58132AD7C692001F7C3C /* New Group */,
+				84DE81BE2ADD169B0024D298 /* StarView */,
 				843F64DE2AD6C39600DFEF6F /* CarouselView.swift */,
 				84B5BDC62AD62C9200395174 /* DetailPlaceView.swift */,
 				84B5BDC82AD66FFD00395174 /* PhotoListView.swift */,
@@ -566,8 +567,8 @@
 				84EF43AB2ACAC37900023AF3 /* map_pinup_custom.png in Resources */,
 				84EF43A02ACAC37900023AF3 /* map_pinup@3x.png in Resources */,
 				84EF43AA2ACAC37900023AF3 /* point_sprite.png in Resources */,
+				84DE81C22ADD16AD0024D298 /* StarRatingStackView.xib in Resources */,
 				84EF43B22ACAC37900023AF3 /* map_present_background_update.png in Resources */,
-				843F58182AD7C6A8001F7C3C /* StarRatingStackView.xib in Resources */,
 				84EF43AE2ACAC37900023AF3 /* map_present_direction.png in Resources */,
 				84EF43AD2ACAC37900023AF3 /* noimage256.png in Resources */,
 				84EF439C2ACAC37900023AF3 /* shadow_balloon.png in Resources */,
@@ -638,6 +639,7 @@
 				8449DDB32ACBD2AD0078BCF8 /* SearchViewController.swift in Sources */,
 				845DA6AD2ACD5A1000657642 /* DatabaseManager.swift in Sources */,
 				84884E5E2ACD7EE400E943A8 /* MyViewController.swift in Sources */,
+				84DE81C32ADD16AD0024D298 /* JStarRatingView.swift in Sources */,
 				84CB001A2AD77AB1008ECF4E /* BlogReviewCell.swift in Sources */,
 				8449DDB92ACBD7A20078BCF8 /* Keyword.swift in Sources */,
 				84C5DC152ACE8C3300FD7D96 /* UIWindow+Extension.swift in Sources */,
@@ -660,7 +662,6 @@
 				84F7C6DC2ACEC8D3009E22BE /* LoginPopupView.swift in Sources */,
 				84B5BDCB2AD670C700395174 /* PhotoCell.swift in Sources */,
 				8456075C2ACD00610071A469 /* MapSettingViewController.swift in Sources */,
-				843F58172AD7C6A8001F7C3C /* StarRatingStackView.swift in Sources */,
 				84CB001C2AD79134008ECF4E /* TableView.swift in Sources */,
 				84EF43BB2ACB070300023AF3 /* UIButton+Extension.swift in Sources */,
 				84EF430A2ACAB97100023AF3 /* AppDelegate.swift in Sources */,
@@ -670,10 +671,10 @@
 				84F7C6D92ACEC4AC009E22BE /* UIImage+Extension.swift in Sources */,
 				84EF430C2ACAB97100023AF3 /* SceneDelegate.swift in Sources */,
 				849EB7EA2ADCD6BF000C4D9D /* LoadingIndicator.swift in Sources */,
+				84DE81C42ADD16AD0024D298 /* StarRatingStackView.swift in Sources */,
 				844D12142AD6A57C0021DEB4 /* MenuView.swift in Sources */,
 				84C5DC0D2ACE688600FD7D96 /* SearchResultViewController.swift in Sources */,
 				84F7C6DE2ACED922009E22BE /* LoginPopupViewController.swift in Sources */,
-				843F58192AD7C6A8001F7C3C /* JStarRatingView.swift in Sources */,
 				84C5DC112ACE7EC600FD7D96 /* StoreView.swift in Sources */,
 				84CB00182AD773B5008ECF4E /* BlogReviewView.swift in Sources */,
 				845DA6B92ACD6E6300657642 /* User.swift in Sources */,
@@ -832,7 +833,8 @@
 					"$(PROJECT_DIR)/MyMap/DaumMap.embeddedframework",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyMap/Info.plist;
+				INFOPLIST_FILE = "/Users/choejeong-eun/Desktop/Git_Project/MyMap/MyMap/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "마이맵";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
@@ -849,7 +851,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.cje.MyMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/choejeong-eun/Desktop/MyMap/MyMap-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/choejeong-eun/Desktop/Git_Project/MyMap/MyMap-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -872,7 +874,8 @@
 					"$(PROJECT_DIR)/MyMap/DaumMap.embeddedframework",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyMap/Info.plist;
+				INFOPLIST_FILE = "/Users/choejeong-eun/Desktop/Git_Project/MyMap/MyMap/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "마이맵";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "현재 위치를 표시하기 위해서 필요합니다.";
@@ -889,7 +892,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.cje.MyMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/choejeong-eun/Desktop/MyMap/MyMap-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/choejeong-eun/Desktop/Git_Project/MyMap/MyMap-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
